@@ -1,0 +1,5 @@
+1, Sayali, MCA, 85
+2, Rahul, BCA, 78
+3, Priya, MCA, 92
+4, Amit, BCA, 80
+5, Neha, MCA, 88
